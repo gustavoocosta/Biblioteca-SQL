@@ -1,4 +1,4 @@
-# 📚 Projeto SQL - Biblioteca
+# Biblioteca
 
 Este projeto é um **sistema de gerenciamento de biblioteca**
 desenvolvido em **SQL (Oracle)**.\
